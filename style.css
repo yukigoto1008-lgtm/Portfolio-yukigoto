@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(7, 201, 91, 0.3);
+}
+
+h1 {
+  color: rgb(3, 165, 3);
+}
+
+p {
+  line-height: 1.6;
+}
+
+.skills {
+  list-style: none;
+  padding: 0;
+  }
+
+.skills li {
+  background-color: #0759fc;
+  color: #fff;
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 5px;
+}
